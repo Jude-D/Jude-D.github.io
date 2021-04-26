@@ -1,3 +1,10 @@
 body {
     background-color: #2C2F33;
 }
+.navbar-nav > li{
+    margin:20px;
+  }
+#about-me {
+    padding-top: 400px;
+    padding-bottom: 300px;
+}
