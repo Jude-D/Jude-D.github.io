@@ -47,28 +47,31 @@
 }
 #github{
     font-size: 1.5rem;
-    padding-right: 10px;
-    color: #f4a261;
+    padding-right: 0.3rem;
+    color: white;
 }
 #github:hover{
     color: #e76f51
 }
 #linkedin{
     font-size: 1.5rem;
-    color: #f4a261;
+    color: white;
 }
 #linkedin:hover{
     color: #e76f51
 }
 #projects {
     background-color: black;
-    height: 50vh;
+    padding-bottom: 2.5rem;
 }
 #projecttitle {
     color: #2a9d8f;
-    padding-top: 3vh;
+    padding-top: 0.5rem;
+}
+#projectdescription {
+    color: white;
 }
 #footer {
-    height: 10vh;
+    height: 3rem;
     background-color: #07080a
 }
