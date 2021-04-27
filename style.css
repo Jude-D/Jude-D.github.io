@@ -25,7 +25,7 @@
     color: #e76f51;
 }
 #metrolinx {
-    color: white;
+    color: #f4a261;
     text-decoration: none;
 }
 #metrolinx:hover {
@@ -61,7 +61,7 @@
     color: #e76f51
 }
 #projects {
-    background-color: black;
+    background-color: #000000;
     padding-bottom: 2.5rem;
 }
 #projecttitle {
@@ -70,6 +70,30 @@
 }
 #projectdescription {
     color: white;
+}
+.card {
+    background-color: #07080a;
+    border-radius: 3%;
+}
+.card-title {
+    color: #2a9d8f;
+    padding-bottom: 1rem;
+}
+.card-text {
+    color: white;
+    padding-bottom: 1rem;
+}
+.card-stack {
+    color: white;
+    display:inline-block;
+}
+#githubcard {
+    font-size: 1.5rem;
+    color: white;
+    float: right;
+}
+#githubcard:hover {
+    color: #2a9d8f;;
 }
 #footer {
     height: 3rem;
