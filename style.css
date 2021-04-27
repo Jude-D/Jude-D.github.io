@@ -1,0 +1,74 @@
+#about-me {
+    padding: 0;
+    background-color: #07080a;
+}
+#about-me {
+    height: 100vh;
+}
+#topabout{
+    padding-bottom: -70px;
+    margin-bottom: 0px;
+}
+#name {
+    font-size: 4rem;
+    padding: 0px;
+}
+#period{
+    color: #f4a261;
+    padding: 0px;
+}
+#location {
+    color: #f4a261;
+    text-decoration: none;
+}
+#location:hover {
+    color: #e76f51;
+}
+#metrolinx {
+    color: white;
+    text-decoration: none;
+}
+#metrolinx:hover {
+    color: #e76f51;
+}
+#kinectrics {
+    color: #f4a261;
+    text-decoration: none;
+}
+#kinectrics:hover {
+    color: #e76f51;
+}
+#resume {
+    color: #f4a261;
+    text-decoration: none;
+}
+#resume:hover {
+    color: #e76f51;
+}
+#github{
+    font-size: 1.5rem;
+    padding-right: 10px;
+    color: #f4a261;
+}
+#github:hover{
+    color: #e76f51
+}
+#linkedin{
+    font-size: 1.5rem;
+    color: #f4a261;
+}
+#linkedin:hover{
+    color: #e76f51
+}
+#projects {
+    background-color: black;
+    height: 50vh;
+}
+#projecttitle {
+    color: #2a9d8f;
+    padding-top: 3vh;
+}
+#footer {
+    height: 10vh;
+    background-color: #07080a
+}
