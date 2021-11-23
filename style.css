@@ -1,105 +1,112 @@
 body {
-  font-family: "Arimo", sans-serif;
+	font-family: 'Arimo', sans-serif;
 }
 
 #about-me {
-  padding: 0;
-  background-color: #07080a;
+	padding: 0;
+	background-color: #07080a;
 }
 #about-me {
-  height: 100vh;
+	height: 100vh;
 }
 #topabout {
-  padding-bottom: -70px;
-  margin-bottom: 0px;
+	padding-bottom: -70px;
+	margin-bottom: 0px;
 }
 #name {
-  font-size: 4rem;
-  padding: 0px;
+	font-size: 4rem;
+	padding: 0px;
 }
 #period {
-  color: #f4a261;
-  padding: 0px;
+	color: #f4a261;
+	padding: 0px;
 }
 #location {
-  color: #f4a261;
-  text-decoration: none;
+	color: #f4a261;
+	text-decoration: none;
 }
 #location:hover {
-  color: #e76f51;
+	color: #e76f51;
+}
+#varicent {
+	color: #f4a261;
+	text-decoration: none;
+}
+#varicent:hover {
+	color: #e76f51;
 }
 #metrolinx {
-  color: #f4a261;
-  text-decoration: none;
+	color: #f4a261;
+	text-decoration: none;
 }
 #metrolinx:hover {
-  color: #e76f51;
+	color: #e76f51;
 }
 #kinectrics {
-  color: #f4a261;
-  text-decoration: none;
+	color: #f4a261;
+	text-decoration: none;
 }
 #kinectrics:hover {
-  color: #e76f51;
+	color: #e76f51;
 }
 #resume {
-  color: #f4a261;
-  text-decoration: none;
+	color: #f4a261;
+	text-decoration: none;
 }
 #resume:hover {
-  color: #e76f51;
+	color: #e76f51;
 }
 #github {
-  font-size: 1.5rem;
-  padding-right: 0.3rem;
-  color: white;
+	font-size: 1.5rem;
+	padding-right: 0.3rem;
+	color: white;
 }
 #github:hover {
-  color: #e76f51;
+	color: #e76f51;
 }
 #linkedin {
-  font-size: 1.5rem;
-  color: white;
+	font-size: 1.5rem;
+	color: white;
 }
 #linkedin:hover {
-  color: #e76f51;
+	color: #e76f51;
 }
 #projects {
-  background-color: #000000;
-  padding-bottom: 2.5rem;
+	background-color: #000000;
+	padding-bottom: 2.5rem;
 }
 #projecttitle {
-  color: #2a9d8f;
-  padding-top: 0.5rem;
+	color: #2a9d8f;
+	padding-top: 0.5rem;
 }
 #projectdescription {
-  color: white;
+	color: white;
 }
 .card {
-  background-color: #07080a;
-  border-radius: 3%;
+	background-color: #07080a;
+	border-radius: 3%;
 }
 .card-title {
-  color: #2a9d8f;
-  padding-bottom: 1rem;
+	color: #2a9d8f;
+	padding-bottom: 1rem;
 }
 .card-text {
-  color: white;
-  padding-bottom: 1rem;
+	color: white;
+	padding-bottom: 1rem;
 }
 .card-stack {
-  color: white;
-  display: inline-block;
+	color: white;
+	display: inline-block;
 }
 #githubcard {
-  font-size: 1.5rem;
-  color: white;
-  float: right;
+	font-size: 1.5rem;
+	color: white;
+	float: right;
 }
 #githubcard:hover {
-  color: #2a9d8f;
+	color: #2a9d8f;
 }
 #footer {
-  height: 3rem;
-  background-color: #07080a;
+	height: 3rem;
+	background-color: #07080a;
 }
