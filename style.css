@@ -18,43 +18,43 @@ body {
 	padding: 0px;
 }
 #period {
-	color: #f4a261;
+	color: #14e114;
 	padding: 0px;
 }
 #location {
-	color: #f4a261;
+	color: #14e114;
 	text-decoration: none;
 }
 #location:hover {
-	color: #e76f51;
+	color: #009534;
 }
 #varicent {
-	color: #f4a261;
+	color: #14e114;
 	text-decoration: none;
 }
 #varicent:hover {
-	color: #e76f51;
+	color: #009534;
 }
 #metrolinx {
-	color: #f4a261;
+	color: #14e114;
 	text-decoration: none;
 }
 #metrolinx:hover {
-	color: #e76f51;
+	color: #009534;
 }
 #kinectrics {
-	color: #f4a261;
+	color: #14e114;
 	text-decoration: none;
 }
 #kinectrics:hover {
-	color: #e76f51;
+	color: #009534;
 }
 #resume {
-	color: #f4a261;
+	color: #14e114;
 	text-decoration: none;
 }
 #resume:hover {
-	color: #e76f51;
+	color: #009534;
 }
 #github {
 	font-size: 1.5rem;
@@ -62,21 +62,21 @@ body {
 	color: white;
 }
 #github:hover {
-	color: #e76f51;
+	color: #009534;
 }
 #linkedin {
 	font-size: 1.5rem;
 	color: white;
 }
 #linkedin:hover {
-	color: #e76f51;
+	color: #009534;
 }
 #projects {
 	background-color: #000000;
 	padding-bottom: 2.5rem;
 }
 #projecttitle {
-	color: #2a9d8f;
+	color: #04b16f;
 	padding-top: 0.5rem;
 }
 #projectdescription {
@@ -87,7 +87,7 @@ body {
 	border-radius: 3%;
 }
 .card-title {
-	color: #2a9d8f;
+	color: #04b16f;
 	padding-bottom: 1rem;
 }
 .card-text {
@@ -104,7 +104,7 @@ body {
 	float: right;
 }
 #githubcard:hover {
-	color: #2a9d8f;
+	color: #04b16f;
 }
 #footer {
 	height: 3rem;
